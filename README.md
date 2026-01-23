@@ -12,7 +12,7 @@ This repository is designed to function as a **self-auditing research artifact**
 
 ---
 
-## 📌 Abstract
+## Abstract
 
 Recent advances in deep learning for ADS detection frequently report substantial performance improvements over classical machine learning approaches. However, through a PRISMA-aligned systematic review and paired within-study statistical analysis, we identify a **performance saturation plateau**—where increasingly complex architectures yield **diminishing returns** once controls for **data leakage**, **evaluation protocol rigor**, and **sample provenance** are enforced.
 
@@ -25,7 +25,7 @@ To address the persistent gap between **research prototypes** and **deployable c
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Research-Paper_AI-for-Mental-Health/
@@ -56,7 +56,7 @@ Research-Paper_AI-for-Mental-Health/
 
 ---
 
-## 🚀 Reproduction Workflow
+## Reproduction Workflow
 
 ### 1. Environment Setup
 
@@ -211,7 +211,7 @@ Each model is evaluated on a **5-point binary checklist**:
 
 ---
 
-## 📄 Citation
+## Citation
 
 If you use this repository or its findings, please cite:
 
@@ -227,7 +227,7 @@ If you use this repository or its findings, please cite:
 
 ---
 
-## 👤 Maintainer
+## Maintainer
 
 **Priyangshu Mukherjee**
 B.Tech (Hons.), Computer Science & Engineering
