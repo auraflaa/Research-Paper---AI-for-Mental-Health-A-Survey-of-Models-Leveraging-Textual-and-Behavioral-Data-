@@ -1,6 +1,4 @@
-# AI for Mental Health
-
-## A Survey of Models Leveraging Textual and Behavioral Data
+# AI for Mental Health: A Survey of Models Leveraging Textual and Behavioral Data
 
 This repository contains the **complete reproducibility and governance package** for the systematic survey:
 
