@@ -1,10 +1,14 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)  
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/auraflaa/AI-for-Mental-Health-A-Survey-of-Models-Leveraging-Textual-and-Behavioral-Data/pulls)
+
 # AI for Mental Health: A Survey of Models Leveraging Textual and Behavioral Data
 
 This repository contains the **complete reproducibility and governance package** for the systematic survey:
 
 > **“AI for Mental Health: A Survey of Models Leveraging Textual and Behavioral Data”**
 
-The study examines AI-based detection of **Anxiety, Depression, and Stress (ADS)** using textual and behavioral signals, with a deliberate emphasis on **methodological rigor**, **evaluation validity**, and **operational readiness**, rather than headline accuracy gains alone.
+The study examines AI-based detection of **Anxiety, Depression, and Stress (ADS)** using textual and behavioral signals, with a deliberate emphasis on **methodological rigor**, **evaluation validit[...]
 
 This repository is designed to function as a **self-auditing research artifact**, suitable for long-term archival, independent verification, and downstream meta-research.
 
@@ -12,14 +16,14 @@ This repository is designed to function as a **self-auditing research artifact**
 
 ## Abstract
 
-Recent advances in deep learning for ADS detection frequently report substantial performance improvements over classical machine learning approaches. However, through a PRISMA-aligned systematic review and paired within-study statistical analysis, we identify a **performance saturation plateau**—where increasingly complex architectures yield **diminishing returns** once controls for **data leakage**, **evaluation protocol rigor**, and **sample provenance** are enforced.
+Recent advances in deep learning for ADS detection frequently report substantial performance improvements over classical machine learning approaches. However, through a PRISMA-aligned systematic r[...]
 
 Using paired contrasts across methodologically comparable studies, we observe statistically significant saturation:
 
 * **Wilcoxon Signed-Rank Test:** p = 0.0244
 * **Cliff’s Delta:** 0.5950 (large effect size)
 
-To address the persistent gap between **research prototypes** and **deployable clinical systems**, we introduce an **Operational Readiness Checklist (ORC)**—a structured auditing framework for assessing whether a model satisfies minimum standards for responsible, real-world deployment.
+To address the persistent gap between **research prototypes** and **deployable clinical systems**, we introduce an **Operational Readiness Checklist (ORC)**—a structured auditing framework for a[...]
 
 ---
 
