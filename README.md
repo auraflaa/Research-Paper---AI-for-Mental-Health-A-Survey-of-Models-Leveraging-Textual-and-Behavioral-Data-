@@ -1,8 +1,8 @@
+# AI for Mental Health: A Survey of Models Leveraging Textual and Behavioral Data
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)  
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/auraflaa/AI-for-Mental-Health-A-Survey-of-Models-Leveraging-Textual-and-Behavioral-Data/pulls)
-
-# AI for Mental Health: A Survey of Models Leveraging Textual and Behavioral Data
 
 This repository contains the **complete reproducibility and governance package** for the systematic survey:
 
